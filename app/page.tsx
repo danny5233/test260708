@@ -7,7 +7,7 @@ export default function Home() {
       <section className="py-24 px-4 border-b border-gray-200 dark:border-gray-800">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-black dark:text-white mb-6">
-            Essential Carry
+            歡迎來到小羊跟宥利的測試網站
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-400 mb-10 max-w-2xl mx-auto">
             Thoughtfully designed everyday essentials for work, travel, and life.
